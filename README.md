@@ -1,7 +1,7 @@
 # **🔥 𝗧𝗵𝗲 Diego 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 - MD🔥**
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/ShadowBotV4-MD/blob/master/src/sinfoto.jpg" alt="ShadowBotV4-MD" width="900"/>
+<img src="https://www.google.com/search?q=LANA+DEL+REY&client=firefox-b-m&sxsrf=AB5stBipiZvv6C6mzzLoBraTXJxRs_Z6KQ:1690182203777&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjdlfKu46aAAxXFg4QIHbJ6AOYQ_AUIBygC&biw=408&bih=785#" alt="ShadowBotV4-MD" width="900"/>
 </p>
 
 ### **COMPATIBLE CON WHATSAPP MULTIDIVICE, ACTUALIZADO**
