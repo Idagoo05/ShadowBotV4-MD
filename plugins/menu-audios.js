@@ -12,7 +12,7 @@ let str = `
 *<MENU DE AUDIOS/>*
 - Escribe las palabras/frases tal como estan, no hace falta poner ningun prefijo (#, ., *, etc) 
 
-° ඬ⃟🔊 _Quien es tu sempai botsito 7w7_
+° ඬ⃟🔊 _*Quien es tu sempai botsito 7w7*_
 ° ඬ⃟🔊 _Te diagnostico con gay_
 ° ඬ⃟🔊 _A nadie le importa_
 ° ඬ⃟🔊 _Fiesta del admin_
@@ -33,10 +33,9 @@ let str = `
 ° ඬ⃟🔊 _Murio el grupo_
 ° ඬ⃟🔊 _Oh me vengo_
 ° ඬ⃟🔊 _tio que rico_
-° ඬ⃟🔊 _Viernes_
+° ඬ⃟🔊 _Nos vemos el Viernes_
 ° ඬ⃟🔊 _Baneado_
 ° ඬ⃟🔊 _Sexo_
-° ඬ⃟🔊 _Hola_
 ° ඬ⃟🔊 _Un pato_
 ° ඬ⃟🔊 _Nyanpasu_
 ° ඬ⃟🔊 _Te amo_
@@ -45,7 +44,7 @@ let str = `
 ° ඬ⃟🔊 _Es puto_
 ° ඬ⃟🔊 _La biblia_
 ° ඬ⃟🔊 _Onichan_
-° ඬ⃟🔊 _Mierda de Bot_
+° ඬ⃟🔊 _Bot de mierda_
 ° ඬ⃟🔊 _Siuuu_
 ° ඬ⃟🔊 _Epico_
 ° ඬ⃟🔊 _Shitpost_
