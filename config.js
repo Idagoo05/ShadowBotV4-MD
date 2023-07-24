@@ -9,19 +9,17 @@ import moment from 'moment-timezone'
 
 //============= OWMER ============= 
 global.owner = [
-  ['5218442286089', '👑 DIEGO-OFC 👑', true],
-  ['5219992095479', '👑 BRUNO-SOBRINO', true]
-] 
+  ['584121275155', '👑 DIEGO 👑', true],
 //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['584121275155'] 
+global.prems = ['584121275155'] 
 
 //============= TEXTOS ============= 
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = 'Diego 𓆏'
 global.author = 'The Shadow Brokers - Bot'
-global.wm = '© The Shadow Brokers - Bot'
-global.igfg = '© The Shadow Brokers - Bot'
+global.wm = '© The Diego - Bot'
+global.igfg = '© The Diego - Bot'
 global.wait = '*⏰ Cargando, espere un momento...*'
 
 //============= DOCUMENTOS ============= 
@@ -69,11 +67,11 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
 
 //=============RPG=============
-global.wm2 = `The Shadow Brokers - Bot - MD`
-global.gt = 'The Shadow Brokers - Bot'
-global.shadowbot = 'The Shadow Brokers - Bot'
-global.md = 'https://github.com/DIEGO-OFC/ShadowBotV4-MD'
-global.mysticbot = 'https://github.com/DIEGO-OFC/ShadowBotV4-MD'
+global.wm2 = `© The Diego - Bot - MD`
+global.gt = '© The Diego - Bot'
+global.Didgobot = '© The Diego - Bott'
+global.md = 'https://github.com/DIEGO/Diego-Bot-MD'
+global.mysticbot = 'https://github.com/DIEGO-OFC/Diego-bot'
 global.waitt = '*⏰ Cargando, espere un momento...*'
 global.waittt = '*⏰ Cargando, espere un momento...*'
 global.waitttt = '*⏰ Cargando, espere un momento...*'
@@ -299,8 +297,8 @@ string = string.toLowerCase()
       berlian: '♦️ Joya',
       kyubi: '🌀 Magia',
       gold: '👑 Oro',
-      money: '🪙 ShadowCoins',
-      tiketcoin: '🎫 Shadow Tickers',
+      money: '🪙 𓆏Coins',
+      tiketcoin: '🏷 𓆏 Tickers',
       stamina: '✨ Energía',
       potion: '🥤 Poción',
       aqua: '💧 Agua',
