@@ -1,4 +1,4 @@
-# **🔥 𝗧𝗵𝗲 𝗦𝗵𝗮𝗱𝗼𝘄 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 - MD🔥**
+# **🔥 𝗧𝗵𝗲 Diego 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 - MD🔥**
 
 <p align="center">
 <img src="https://github.com/DIEGO-OFC/ShadowBotV4-MD/blob/master/src/sinfoto.jpg" alt="ShadowBotV4-MD" width="900"/>
@@ -34,7 +34,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/ShadowBotV4-MD 
+> git clone https://github.com/idagoo05/ShadowbotV4-MD 
 > cd ShadowBotV4-MD 
 > yarn install 
 > npm install
